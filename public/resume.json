@@ -1,5 +1,5 @@
 {
-  "about":{
+  "main":{
     "name":"Ido Barnea",
     "occupation":"Web developer, programmer and designer",
     "description":"I design and program websites and web applications of all types. I also teach web dev courses",
@@ -107,7 +107,8 @@
         "name":"jQuery",
         "level":"50%"
       }
-    ]
+    ],
+    "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,\n                    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam\n                    voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione\n                    voluptatem sequi nesciunt."
   },
   "portfolio":{
     "projects":[
