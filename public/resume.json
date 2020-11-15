@@ -2,54 +2,39 @@
   "main":{
     "name":"Ido Barnea",
     "occupation":"Web developer, programmer and designer",
-    "description":"I design and program websites and web applications of all types. I also teach web dev courses",
-    "image":"profilepic.jpg",
+    "description":"I design and program websites and web applications of all types.",
+    "image":"ido.png",
     "bio":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
-    "email":"bradtraversy@gmail.com",
-    "phone":"555-555-5555",
+    "email":"barbareshet@gmail.com",
+    "phone":"972-52-337-3441",
     "address":{
-      "street":"933 Albany st, Suite 3",
-      "city":"Boston",
-      "state":"MA",
-      "zip":"20293"
+      "street":"Ha'Alonim 28",
+      "city":"Netanya",
+      "state":"IL",
+      "zip":""
     },
-    "website":"http://www.techguywebsolutions.com",
-    "resumedownload":"http://something.com",
+    "website":"http://www.barbareshet.co.il",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com",
+        "url":"http://facebook.com/barbareshet",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"http://twitter.com/barbareshet",
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"http://linkedin.com",
+        "url":"http://linkedin.com/in/idobarnea/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com",
+        "url":"https://github.com/barbareshet",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
