@@ -41,44 +41,48 @@
   "resume":{
     "education":[
       {
-        "school":"University of Life",
-        "degree":"Master in Graphic Design",
-        "graduated":"April 2007",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+        "school":"Hacker U",
+        "degree":"Webmaster / Web Developer",
+        "graduated":"Nov 2015",
+        "description":"This is my only official web dev education. I learnd the Basics of PHP fullstack starting at simple HTML, CSS & JS, Moving to OOP PHP, Laravel framework and more."
       },
       {
-        "school":"School of Cool Designers",
-        "degree":"B.A. Degree in Graphic Design",
-        "graduated":"March 2003",
-        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+        "school":"School of by my self",
+        "degree":"Visual Story Teller",
+        "graduated":"Undergoing",
+        "description":"Since Nov 2015 I encourage my self to learn new technologies such as React, WordPress, Vue and other web technologies"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX Designer ",
-        "years":"March 2010 - Present",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+        "company":"Compass Internet Solutions",
+        "title":"SEO Account manager ",
+        "years":"Dec 2015 - July 2017",
+        "description":"Had the responsibility to 50+ websites across North America (USA &Canada)."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"UX Designer",
-        "years":"March 2007 - February 2010",
-        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+        "company":"Compass Internet Solutions",
+        "title":"Web Developer",
+        "years":"July 2017 - Current",
+        "description":"Developing & maintaining 300+ WordPress websites"
       }
     ],
     "skills":[
       {
+        "name":"Wordpress",
+        "level":"95%"
+      },
+      {
+        "name":"React",
+        "level":"50%"
+      },
+      {
         "name":"Photoshop",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"Illustrator",
         "level":"55%"
-      },
-      {
-        "name":"Wordpress",
-        "level":"50%"
       },
       {
         "name":"CSS",
@@ -91,6 +95,10 @@
       {
         "name":"jQuery",
         "level":"50%"
+      },
+      {
+        "name":"Vue",
+        "level":"40%"
       }
     ],
     "intro": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,\n                    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam\n                    voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione\n                    voluptatem sequi nesciunt."

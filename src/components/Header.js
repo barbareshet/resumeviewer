@@ -1,6 +1,27 @@
 import React, { Component } from 'react';
 
 class Header extends Component{
+    constructor() {
+        super();
+        this.state = {
+            change:false
+        }
+    }
+    componentDidMount() {
+        window.addEventListener('scroll', this.handleScroll);
+        console.log('add event');
+    }
+    componentWillUnmount() {
+        window.removeEventListener('scroll', this.handleScroll);
+        console.log('remove event');
+    }
+    handleScroll = e => {
+        if (window.scrollY === 0) {
+            this.setState({ change: false });
+        } else if (window.scrollY > 0 ) {
+            this.setState({ change: true });
+        }
+    }
     render(){
         if(this.props.data){
             var name    = this.props.data.name;
@@ -28,10 +49,10 @@ class Header extends Component{
                 </nav>
                 <div className="row banner">
                     <div className="banner-text">
-                        <h1 className="responsive-headline">Hey, I'm {name}.</h1>
+                        <h1 className="responsive-headline">Hey, I am {name}.</h1>
                         <h3>I'm a {city} based <span>{occ}</span> creating
                             awesome and
-                            effective visual identities for companies of all sizes around the globe. Let's <a
+                            effective visual identities for companies of all sizes. Let's <a
                                 className="smoothscroll" href="#about">start scrolling </a>
                             and learn more <a className="smoothscroll" href="#about">about me</a>. {desc}</h3>
                         <hr/>
